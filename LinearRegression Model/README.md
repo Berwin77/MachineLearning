@@ -6,8 +6,18 @@
 
 *iris.py* ：读取8.iris.data，预测鸢尾花的类别。
 
+*wine.py* ：读取12.wine.data，用线性回归模型预测鸢尾花的类别。
+
 *8.Advertising.csv* ：广告数据集。
 
 *8.iris.data* ：鸢尾花数据集。
 
 *8.iris.names* 鸢尾花数据的描述。
+
+*8.iris.data* ：鸢尾花数据集。
+
+*8.iris.names* ：鸢尾花数据集的详细描述。
+
+*12.wine.data* ：红酒数据集。
+
+*12.wine.names* ：红酒数据集的详细描述。
