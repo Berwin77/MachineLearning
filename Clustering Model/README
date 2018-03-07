@@ -1,0 +1,17 @@
+### 不同的聚类方法模型
+
+*kMeans.py* ：最基础的KMeans聚类。
+
+*criteria.py* ：快速聚类。
+
+*Affinity Propagation.py* ：AP聚类。
+
+*Density-Based Spatial Clustering of Applications with Noise.py* ：基于密度的聚类。
+
+*MeanShift.py* ：MeanShift聚类。
+
+*spectral_clustering.py* ：谱聚类。
+
+*VectorQuantization.py* ：矢量量化。
+
+*SpectralClusterImage.py* ：对图像进行谱聚类。
